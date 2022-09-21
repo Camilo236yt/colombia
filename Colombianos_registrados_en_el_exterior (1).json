@@ -1,0 +1,370 @@
+[
+{"País;Cantidad de personas":"AFGANISTAN;6"}
+,
+{"País;Cantidad de personas":"ALBANIA;5"}
+,
+{"País;Cantidad de personas":"ALEMANIA;5","field2":"867"}
+,
+{"País;Cantidad de personas":"ANDORRA;97"}
+,
+{"País;Cantidad de personas":"ANGOLA;18"}
+,
+{"País;Cantidad de personas":"ANTIGUA Y BARBUDA;3"}
+,
+{"País;Cantidad de personas":"ANTILLAS HOLANDESAS;355"}
+,
+{"País;Cantidad de personas":"ARABIA SAUDITA;164"}
+,
+{"País;Cantidad de personas":"ARGELIA;17"}
+,
+{"País;Cantidad de personas":"ARGENTINA;13","field2":"963"}
+,
+{"País;Cantidad de personas":"ARMENIA;2"}
+,
+{"País;Cantidad de personas":"ARUBA;4","field2":"298"}
+,
+{"País;Cantidad de personas":"AUSTRALIA;8","field2":"779"}
+,
+{"País;Cantidad de personas":"AUSTRIA;931"}
+,
+{"País;Cantidad de personas":"AZERBAIYAN;68"}
+,
+{"País;Cantidad de personas":"BAHAMAS;16"}
+,
+{"País;Cantidad de personas":"BAHREIN;42"}
+,
+{"País;Cantidad de personas":"BANGLADESH;8"}
+,
+{"País;Cantidad de personas":"BARBADOS;5"}
+,
+{"País;Cantidad de personas":"BELGICA;2","field2":"389"}
+,
+{"País;Cantidad de personas":"BELICE;12"}
+,
+{"País;Cantidad de personas":"BENIN;6"}
+,
+{"País;Cantidad de personas":"BERMUDAS;5"}
+,
+{"País;Cantidad de personas":"BIELORRUSIA;11"}
+,
+{"País;Cantidad de personas":"BOLIVIA;1","field2":"415"}
+,
+{"País;Cantidad de personas":"BONAIRE;64"}
+,
+{"País;Cantidad de personas":"BOSNIA Y HERZEGOVINA;4"}
+,
+{"País;Cantidad de personas":"BOTSUANA;1"}
+,
+{"País;Cantidad de personas":"BRASIL;9","field2":"11"}
+,
+{"País;Cantidad de personas":"BRUNEI DARUSSALAM;2"}
+,
+{"País;Cantidad de personas":"BULGARIA;19"}
+,
+{"País;Cantidad de personas":"BURKINA FASO;1"}
+,
+{"País;Cantidad de personas":"BURUNDI;1"}
+,
+{"País;Cantidad de personas":"CABO VERDE;4"}
+,
+{"País;Cantidad de personas":"CAMBOYA;24"}
+,
+{"País;Cantidad de personas":"CAMERUN;6"}
+,
+{"País;Cantidad de personas":"CANADA;26","field2":"719"}
+,
+{"País;Cantidad de personas":"CHILE;19","field2":"94"}
+,
+{"País;Cantidad de personas":"CHINA;623"}
+,
+{"País;Cantidad de personas":"CHIPRE;21"}
+,
+{"País;Cantidad de personas":"CONGO;1"}
+,
+{"País;Cantidad de personas":"CONGO","field2":"REPUBLICA DEMOCRATICA DE;7"}
+,
+{"País;Cantidad de personas":"COREA","field2":"REPUBLICA DE;400"}
+,
+{"País;Cantidad de personas":"COREA","field2":"REPUBLICA DEMOCRATICA POPULAR DE;1"}
+,
+{"País;Cantidad de personas":"COSTA DE MARFIL;4"}
+,
+{"País;Cantidad de personas":"COSTA RICA;7","field2":"689"}
+,
+{"País;Cantidad de personas":"CROACIA;26"}
+,
+{"País;Cantidad de personas":"CUBA;221"}
+,
+{"País;Cantidad de personas":"CURAÇAO;2","field2":"792"}
+,
+{"País;Cantidad de personas":"DESCONOCIDO;30"}
+,
+{"País;Cantidad de personas":"DINAMARCA;308"}
+,
+{"País;Cantidad de personas":"DOMINICA;1"}
+,
+{"País;Cantidad de personas":"ECUADOR;30","field2":"26"}
+,
+{"País;Cantidad de personas":"EGIPTO;89"}
+,
+{"País;Cantidad de personas":"EL SALVADOR;703"}
+,
+{"País;Cantidad de personas":"EMIRATOS ARABES UNIDOS;1","field2":"424"}
+,
+{"País;Cantidad de personas":"ESLOVAQUIA;31"}
+,
+{"País;Cantidad de personas":"ESLOVENIA;21"}
+,
+{"País;Cantidad de personas":"ESPAÑA;110","field2":"932"}
+,
+{"País;Cantidad de personas":"ESTADOS UNIDOS;148","field2":"036"}
+,
+{"País;Cantidad de personas":"ESTONIA;22"}
+,
+{"País;Cantidad de personas":"ETIOPIA;7"}
+,
+{"País;Cantidad de personas":"FEDERACION DE RUSIA;633"}
+,
+{"País;Cantidad de personas":"FILIPINAS;79"}
+,
+{"País;Cantidad de personas":"FINLANDIA;293"}
+,
+{"País;Cantidad de personas":"FRANCIA;13","field2":"68"}
+,
+{"País;Cantidad de personas":"GABON;16"}
+,
+{"País;Cantidad de personas":"GEORGIA;2"}
+,
+{"País;Cantidad de personas":"GHANA;21"}
+,
+{"País;Cantidad de personas":"GRECIA;128"}
+,
+{"País;Cantidad de personas":"GUADALUPE;1"}
+,
+{"País;Cantidad de personas":"GUATEMALA;2","field2":"264"}
+,
+{"País;Cantidad de personas":"GUINEA;2"}
+,
+{"País;Cantidad de personas":"GUINEA-BISSAU;1"}
+,
+{"País;Cantidad de personas":"GUINEA ECUATORIAL;14"}
+,
+{"País;Cantidad de personas":"GUYANA;18"}
+,
+{"País;Cantidad de personas":"GUYANA FRANCESA;23"}
+,
+{"País;Cantidad de personas":"HAITI;53"}
+,
+{"País;Cantidad de personas":"HONDURAS;764"}
+,
+{"País;Cantidad de personas":"HONG KONG;173"}
+,
+{"País;Cantidad de personas":"HUNGRIA;81"}
+,
+{"País;Cantidad de personas":"INDIA;131"}
+,
+{"País;Cantidad de personas":"INDONESIA;96"}
+,
+{"País;Cantidad de personas":"IRAK;6"}
+,
+{"País;Cantidad de personas":"IRAN","field2":"REPUBLICA ISLAMICA DE;10"}
+,
+{"País;Cantidad de personas":"IRLANDA;404"}
+,
+{"País;Cantidad de personas":"ISLANDIA;8"}
+,
+{"País;Cantidad de personas":"ISLAS COMOROS;1"}
+,
+{"País;Cantidad de personas":"ISLAS VIRGENES BRITANICAS;1"}
+,
+{"País;Cantidad de personas":"ISRAEL;665"}
+,
+{"País;Cantidad de personas":"ITALIA;8","field2":"415"}
+,
+{"País;Cantidad de personas":"JAMAICA;110"}
+,
+{"País;Cantidad de personas":"JAPON;1","field2":"175"}
+,
+{"País;Cantidad de personas":"JORDANIA;57"}
+,
+{"País;Cantidad de personas":"KAZAJSTAN;7"}
+,
+{"País;Cantidad de personas":"KENIA;76"}
+,
+{"País;Cantidad de personas":"KOSOVO;2"}
+,
+{"País;Cantidad de personas":"KUWAIT;42"}
+,
+{"País;Cantidad de personas":"LAO","field2":"REPUBLIC DEMOCRATICA POPULAR DE;4"}
+,
+{"País;Cantidad de personas":"LETONIA;10"}
+,
+{"País;Cantidad de personas":"LIBANO;357"}
+,
+{"País;Cantidad de personas":"LIBERIA;2"}
+,
+{"País;Cantidad de personas":"LIECHTENSTEIN;10"}
+,
+{"País;Cantidad de personas":"LITUANIA;17"}
+,
+{"País;Cantidad de personas":"LUXEMBURGO;194"}
+,
+{"País;Cantidad de personas":"MACAO;2"}
+,
+{"País;Cantidad de personas":"MACEDONIA","field2":"EX REPUBLICA YUGOSLAVA DE;1"}
+,
+{"País;Cantidad de personas":"MADAGASCAR;5"}
+,
+{"País;Cantidad de personas":"MALASIA;134"}
+,
+{"País;Cantidad de personas":"MALAWI;4"}
+,
+{"País;Cantidad de personas":"MALDIVAS;1"}
+,
+{"País;Cantidad de personas":"MALI;8"}
+,
+{"País;Cantidad de personas":"MALTA;149"}
+,
+{"País;Cantidad de personas":"MARRUECOS;85"}
+,
+{"País;Cantidad de personas":"MARTINICA;2"}
+,
+{"País;Cantidad de personas":"MAURICIO;7"}
+,
+{"País;Cantidad de personas":"MAURITANIA;1"}
+,
+{"País;Cantidad de personas":"MEXICO;12","field2":"152"}
+,
+{"País;Cantidad de personas":"MOLDOVA","field2":"REPUBLICA DE;3"}
+,
+{"País;Cantidad de personas":"MONACO;13"}
+,
+{"País;Cantidad de personas":"MONGOLIA;4"}
+,
+{"País;Cantidad de personas":"MONTENEGRO;2"}
+,
+{"País;Cantidad de personas":"MOZAMBIQUE;25"}
+,
+{"País;Cantidad de personas":"MYANMAR;23"}
+,
+{"País;Cantidad de personas":"NAMIBIA;2"}
+,
+{"País;Cantidad de personas":"NICARAGUA;276"}
+,
+{"País;Cantidad de personas":"NIGER;2"}
+,
+{"País;Cantidad de personas":"NIGERIA;27"}
+,
+{"País;Cantidad de personas":"NORUEGA;506"}
+,
+{"País;Cantidad de personas":"NUEVA CALEDONIA;1"}
+,
+{"País;Cantidad de personas":"NUEVA ZELANDA;1","field2":"574"}
+,
+{"País;Cantidad de personas":"OMAN;43"}
+,
+{"País;Cantidad de personas":"PAISES BAJOS;1","field2":"951"}
+,
+{"País;Cantidad de personas":"PAKISTAN;5"}
+,
+{"País;Cantidad de personas":"PALESTINA;40"}
+,
+{"País;Cantidad de personas":"PANAMA;11","field2":"71"}
+,
+{"País;Cantidad de personas":"PAPUA NUEVA GUINEA;1"}
+,
+{"País;Cantidad de personas":"PARAGUAY;783"}
+,
+{"País;Cantidad de personas":"PERU;5","field2":"829"}
+,
+{"País;Cantidad de personas":"POLINESIA FRANCESA;1"}
+,
+{"País;Cantidad de personas":"POLONIA;400"}
+,
+{"País;Cantidad de personas":"PORTUGAL;1","field2":"046"}
+,
+{"País;Cantidad de personas":"QATAR;114"}
+,
+{"País;Cantidad de personas":"REINO UNIDO;15","field2":"698"}
+,
+{"País;Cantidad de personas":"REPUBLICA ARABE SIRIA;1"}
+,
+{"País;Cantidad de personas":"REPUBLICA CENTROAFRICANA;1"}
+,
+{"País;Cantidad de personas":"REPUBLICA CHECA;217"}
+,
+{"País;Cantidad de personas":"REPUBLICA DE CHINA-TAIWAN;22"}
+,
+{"País;Cantidad de personas":"REPUBLICA DOMINICANA;1","field2":"36"}
+,
+{"País;Cantidad de personas":"RUANDA;4"}
+,
+{"País;Cantidad de personas":"RUMANIA;35"}
+,
+{"País;Cantidad de personas":"RUSIA;9"}
+,
+{"País;Cantidad de personas":"SAINT-MARTIN;25"}
+,
+{"País;Cantidad de personas":"SAN MARINO;3"}
+,
+{"País;Cantidad de personas":"SANTA LUCIA;1"}
+,
+{"País;Cantidad de personas":"SANTO TOME Y PRINCIPE;1"}
+,
+{"País;Cantidad de personas":"SENEGAL;6"}
+,
+{"País;Cantidad de personas":"SERBIA;14"}
+,
+{"País;Cantidad de personas":"SIERRA LEONA;2"}
+,
+{"País;Cantidad de personas":"SINGAPUR;311"}
+,
+{"País;Cantidad de personas":"SIRIA;1"}
+,
+{"País;Cantidad de personas":"SRI LANKA;3"}
+,
+{"País;Cantidad de personas":"ST. MAARTEN;90"}
+,
+{"País;Cantidad de personas":"SUAZILANDIA;1"}
+,
+{"País;Cantidad de personas":"SUDAFRICA;137"}
+,
+{"País;Cantidad de personas":"SUDAN;1"}
+,
+{"País;Cantidad de personas":"SUDAN DEL SUR;1"}
+,
+{"País;Cantidad de personas":"SUECIA;2","field2":"032"}
+,
+{"País;Cantidad de personas":"SUIZA;5","field2":"113"}
+,
+{"País;Cantidad de personas":"SURINAM;32"}
+,
+{"País;Cantidad de personas":"TAILANDIA;303"}
+,
+{"País;Cantidad de personas":"TANZANIA","field2":"REPUBLICA UNIDA DE;7"}
+,
+{"País;Cantidad de personas":"TRINIDAD Y TOBAGO;290"}
+,
+{"País;Cantidad de personas":"TUNEZ;15"}
+,
+{"País;Cantidad de personas":"TURQUIA;298"}
+,
+{"País;Cantidad de personas":"UCRANIA;46"}
+,
+{"País;Cantidad de personas":"UGANDA;7"}
+,
+{"País;Cantidad de personas":"URUGUAY;871"}
+,
+{"País;Cantidad de personas":"VANUATU;2"}
+,
+{"País;Cantidad de personas":"VENEZUELA;96","field2":"837"}
+,
+{"País;Cantidad de personas":"VIETNAM;2"}
+,
+{"País;Cantidad de personas":"VIET NAM;164"}
+,
+{"País;Cantidad de personas":"YEMEN;2"}
+,
+{"País;Cantidad de personas":"ZAMBIA;1"}
+
+]
